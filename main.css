@@ -1,0 +1,173 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+header{
+    background-image: url(game.jpg);
+    height: 50vh;
+}
+li{
+    display: inline-block;
+    padding: 20px;
+}
+li a{
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}
+li a:hover{
+color: black;
+background-color: whitesmoke;
+padding: 10px;
+border-radius: 20px;
+transition: 0.4s;
+}
+.h21{
+color: white;
+text-align: center;
+margin-top: 10%;
+font-size: 40px;
+font-family: century;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.main .h22{
+    margin-top: 20px;
+    font-size: 40px;
+    font-family: century;
+
+}
+.main .div1{
+    border: 1px solid;
+    margin-top: 40px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgb(156, 180, 180);
+}
+.div1 img{
+    width: 330px;
+    margin-top: -50px;
+    border-radius: 30px;
+}
+.div1 p{
+    color: rgb(37, 8, 8);
+    margin-top: 20px;
+    font-size: 20px;
+}
+.div1 button{
+    margin-left: 30%;
+    margin-top: 20px;
+    
+
+}
+.div1 button a{
+    border: 1px solid;
+    padding: 10px;
+    background-color: black;
+    text-decoration: none;
+    border-radius: 20px;
+    color: antiquewhite;
+}
+.div2{
+    margin-top: 40px;
+    border: 1px solid;
+    border-radius: 20px;
+    background-color: rgb(115, 146, 146);
+    height: 90vh;
+
+}
+.div2 img{
+    border-radius: 20px;
+    margin-left: 10px;
+    width: 400px;
+    margin-top: -30px;
+}
+.div2 .h23{
+text-align: center;
+margin-top: 20px;
+font-size: 30px;
+}
+.div2 ol{
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    margin-top: -20px;
+}
+.div2 li{
+    margin: -10px;
+}
+.div2 p{
+    font-size: 30px;
+    margin-top: 20px;
+    color: rgb(26, 19, 65);
+    text-align: center;
+}
+
+
+.div2  a{
+background-color: black;
+padding: 10px;
+padding-left: 40px;
+padding-right: 40px;
+border: 1px solid;
+text-decoration: none;
+color: white;
+border-radius: 20px;
+margin-left: 30%;
+padding-top: -10px;
+
+}
+footer{
+    background-color: black;
+color: white;
+
+}
+footer h1{
+    text-align: center;
+    color: white;
+margin-top: 30px;
+}
+footer p{
+    margin-top: 20px;
+    padding: 10px;
+    font-family: century;
+
+}
+.div3{
+    border: 1px solid;
+border-radius: 20px;
+background-color: rgb(134, 172, 29);
+margin: 40px;
+height: 80vh;
+
+}
+.div3 img{
+    border-radius: 20px;
+    margin-top: -30px;
+    margin-left: 30px;
+}
+.div3 h3{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    margin-top: 20px;
+
+}
+.div3 p{
+    margin-top: 20px;
+    font-size: 30px;
+    margin: 20px;
+}
+.div3 a{
+    background-color: rgba(80, 15, 122, 0.397);
+    border: 1px solid;
+    padding: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+    margin-left: 30%;
+}
